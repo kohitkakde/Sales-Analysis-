@@ -57,11 +57,11 @@ on **time series analysis**, to provide valuable insights and accurate **sales 
 
 ##**5. Technologies Used**
 
-- Power BI: For creating and making the dashboard.
+- Power BI: Utilized for crafting dynamic and interactive dashboards that provide actionable business insights and enhance data storytelling.
  
-- Excel: Data preprocessing and initial analysis.
+- Excel:  Employed for meticulous data preprocessing and initial analysis, ensuring data accuracy and integrity before visualization.
 
-- DAX: For measures and calculated columns.
+- DAX(Data Analysis Expressions): Leveraged for creating sophisticated measures and calculated columns, enabling complex data transformations and in-depth analysis.
 
   
 ##**6. Data Source**
