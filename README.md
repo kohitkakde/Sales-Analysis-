@@ -53,10 +53,7 @@ on **time series analysis**, to provide valuable insights and accurate **sales 
 - Filters and Slicers: there is only one slicer in the dashboard for
                  visualizing sales and profit in specific areas(central, east, west, etc..).
  
-- KPIs: - Total Orders: 22K.
-        - Total Sales: 1.6 Million
-        - Total Profit: 175K
-        - AVG. Shipping time: 4 Days
+- KPIs: - Total Orders: 22K,  Total Sales: 1.6 Million,  Total Profit: 175K,  AVG. Shipping time: 4 Days
 
 ##**5. Technologies Used**
 
