@@ -1,8 +1,8 @@
-#**1. Project Title**
+#**1.Project Title**
 
 Title: Sales Dashboard Power BI
 
-##**2. Project Description**
+##**2.Project Description**
 
  - *Project Overview*
 
@@ -30,32 +30,32 @@ To contribute to the success of a business by utilizing data analysis techniques
 on **time series analysis**, to provide valuable insights and accurate **sales forecasting**.
 
 
-##**3. Table of Contents**
+##**3.Table of Contents**
 
-- [Project Title](#project-title)
+- [Project Title](#1.project-title)
   
-- [Project Description](#project-description)
+- [Project Description](#2.project-description)
   
-- [Table of Contents](#Table-of-Contents)
+- [Table of Contents](#3.Table-of-Contents)
   
-- [Features](#feature)
+- [Features](#4.feature)
 
-- [Technologies Used](#Technologies-used)
+- [Technologies Used](#5.Technologies-used)
 
-- [Data Sources](#Data-Source)
+- [Data Sources](#6.Data-Source)
 
-- [Project Insight](#Project-Insight)
+- [Project Insight](#7.Project-Insight)
 
 
 
-##**4. Features**
+##**4.Features**
 
 - Filters and Slicers: there is only one slicer in the dashboard for
                  visualizing sales and profit in specific areas(central, east, west, etc..).
  
 - KPIs: - Total Orders: 22K,  Total Sales: 1.6 Million,  Total Profit: 175K,  AVG. Shipping time: 4 Days
 
-##**5. Technologies Used**
+##**5.Technologies Used**
 
 - Power BI: Utilized for crafting dynamic and interactive dashboards that provide actionable business insights and enhance data storytelling.
  
@@ -64,12 +64,12 @@ on **time series analysis**, to provide valuable insights and accurate **sales 
 - DAX(Data Analysis Expressions): Leveraged for creating sophisticated measures and calculated columns, enabling complex data transformations and in-depth analysis.
 
   
-##**6. Data Source**
+##**6.Data Source**
 Source: Data is provided in a separate folder named dataset. ()
 
 
 
-##7**Project Insight**
+##**7.Project Insight**
 
 - Payments are predominantly made using cash on delivery (COD) and to a lesser extent, by card. Therefore, we can introduce some incentives for card payments to boost the usage of cards.
 
