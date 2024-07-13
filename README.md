@@ -1,6 +1,7 @@
 # 🎯 Sales Dashboard Power BI
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)(https://app.powerbi.com/view?r=eyJrIjoiZjYyNTllMzYtZDQ4Ny00NGMwLWJhODAtNDdlMmUwOTEwMzk2IiwidCI6IjBlYmZmOTczLWU0YmItNGZmNi05ZDE1LWI2OWVhYTRiYjg2ZSJ9) ![Excel](https://img.shields.io/badge/Excel-Data%20Preprocessing-green) ![DAX](https://img.shields.io/badge/DAX-Analysis-blue)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://app.powerbi.com/view?r=eyJrIjoiZjYyNTllMzYtZDQ4Ny00NGMwLWJhODAtNDdlMmUwOTEwMzk2IiwidCI6IjBlYmZmOTczLWU0YmItNGZmNi05ZDE1LWI2OWVhYTRiYjg2ZSJ9)
+ ![Excel](https://img.shields.io/badge/Excel-Data%20Preprocessing-green) ![DAX](https://img.shields.io/badge/DAX-Analysis-blue)
 
 ## 2. Project Description
 
